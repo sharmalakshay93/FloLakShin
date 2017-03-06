@@ -2,6 +2,7 @@
 A Big Data Project
 
 Instructions for contributions:
+
   1) When contributing, the default branch is the Development Branch. Do your initial work here.
 
   2) When finished, push your work from Development onto the Quality-Assurance Branch for testing. If testing goes as plan, submit a request to push onto the master. Never do work directly on the master.
