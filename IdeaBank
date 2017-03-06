@@ -11,10 +11,17 @@ Scott
                
          Sources of Data: EPA EIS, Google Maps API. 
 
+    Idea#2
+        Topic: Correlate cancer data from https://seer.cancer.gov/data/ with pollution data from EIS to target regions with the highest
+               levels of cacner diagnosises. THen use identify of those regions have commonalities in obscure pollution types, that other
+               regions with lower cacner diagnosises do not have. Then work with EPA to identify studies among those common pollutants
+               to determine if those pollutants have links to cancer. Could also take this a step further and link GPS locations to see
+               if there are common industries within the vicinity of these areas.
 
 
-
-
+        Sources of Data: https://seer.cancer.gov/data/, EIS
+        
+        
 Lakshay
 
 
