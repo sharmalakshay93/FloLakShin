@@ -1,12 +1,15 @@
-Put your ideas under your name (Minimum of 3, Maximum of 5)
+Put your ideas under your name (Minimum of 2, Maximum of 5)
+
+Please maintain format below:
 
 Scott
-
-
-
-
-
-
+    Idea#1
+        Topic: Correlate static data accumulated by the EPA pertaining to NYC to identify areas with the highets level of pollution
+               Then. use that data do identify commonalities between those areas (i.e. processes for handling/releasing waste, street 
+               structures, etc.) that may be causing these extreme levels of waste. Using the GPS locations of the highest offenders and 
+               public repositories of addresses, we will cross reference this data to find a pattern.
+               
+         Sources of Data: EPA EIS, Google Maps API. 
 
 
 
